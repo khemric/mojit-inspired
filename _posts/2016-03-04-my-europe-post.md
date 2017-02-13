@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Europe Blog Post
+title: Istanbul Luxury
 meta-description:
 meta-keywords:
-image_path: http://www.instituteofcode.com/assets/images/rice-paddy.jpg
+image_path: /images/istanbul/istanbul_hotel.jpg
 categories: [travel, europe]
 author: Tina May
 ---

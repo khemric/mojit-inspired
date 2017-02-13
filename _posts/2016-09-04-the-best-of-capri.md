@@ -1,9 +1,9 @@
 ---
 layout: post
-title: South America Blog Post
+title: The Best of Capri
 meta-description:
 meta-keywords:
-image_path: http://www.instituteofcode.com/assets/images/rice-paddy.jpg
+image_path: /images/capri/la_fontalina_beach.jpg
 categories: [travel, south-america]
 author: Tina May
 ---
