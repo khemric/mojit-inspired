@@ -1,0 +1,313 @@
+
+/* INDEX  --------------------
+  - CSS RESET
+  - GENERAL HELPER CLASSES
+  - UNIVERSAL STYLES
+  - HEADER & FOOTER
+  - MODULAR ELEMENTS
+    - Element Name
+  - FORMS
+
+---------------------------
+Website Fonts: List fonts here for reference
+Website Colours: List colour hex codes here for reference
+
+border: 1px solid rgb(240,240,240);
+----------------------------
+*/
+
+
+/*-----CSS RESET------*/
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing:border-box;
+
+  font-family: 'Open Sans', sans-serif;
+}
+/*THIS MUST GO AT THE BEGINNING OF EVERY CSS SHEET*/
+
+/*-----UNIVERSAL STYLES */
+
+/*Typography*/
+body{
+
+  /*INSERT FONT-FAMILY HERE*/
+
+}
+#content {
+  padding-top:60px;
+}
+h1{
+  position:relative;
+  text-align: center;
+}
+h1,h2,h3,h4,h5,h6,header a{
+  font-family: 'Playfair Display SC', serif;
+}
+
+h1,h2 {
+  color:#171717;
+  margin-bottom: 1.1rem;
+}
+p{
+  color:#484848;
+  margin-bottom: 1rem;
+  font-family: 'Cabin Condensed', sans-serif;
+}
+
+.text-carousel{
+  color:#fff;
+}
+
+h1 { font-size: 3.0rem; line-height: 1.2; }
+h2 { font-size: 2.4rem; line-height: 1.25; }
+h3 { font-size: 1.8rem; line-height: 1.25; }
+h4 { font-size: 1.4rem; line-height: 1.25; }
+h5 { font-size: 1.2rem; line-height: 1.25; }
+h6 { font-size: 1.0rem; line-height: 1.25; }
+p  { font-size: 1.1rem; line-height: 1.5;}
+
+.about-me-homepage{
+  text-align: center;
+  text-decoration: none;
+  padding-top: 5%;
+}
+.about-me-blurb{
+  text-align: center;
+  text-decoration-style: double;
+  font-size: 1em;
+  padding-top: 5%;
+}
+
+.button{
+  display: inline-block;
+  padding: .5em 1em;
+  text-decoration:none;
+  background-color: #a92e8d;
+  color:#ffffff;
+  border-radius: 4px;
+  margin:0 auto;
+}
+
+/* Padding & Margin */
+
+footer  { padding: 2vh 5%; }
+section         { padding: 10vh 5%; }
+
+.col,
+[class*=col-]   { padding: 2%; }
+
+
+img {
+  max-width: 100%; /* This ensures an image never breaks it's container */
+}
+
+section {
+  padding: 10vh 5%;
+}
+
+header{
+  padding:0;
+  Position:fixed;
+  width:100%;
+  background-color: white;
+  z-index:9;
+  top: 0;
+  left: 0;
+  margin: 0 0 !important;
+}
+
+header a{
+  z-index: 10;
+}
+
+.logo {
+  padding: 2%;
+}
+
+nav.site-navigation{
+  position: relative;
+}
+
+header a {
+  color: #a92e8d;
+  font-size:15px;
+  text-decoration: none;
+  margin-left: 2%;
+}
+nav a{
+  transition:1s;
+}
+
+
+nav a:hover {
+  text-decoration: underline;
+
+}
+
+.fa-heart{
+  color:#a92e8d;
+}
+
+.social-share h4{
+  padding:2%;
+}
+
+.sacramento{
+  font-family: 'Sacramento', cursive;
+}
+
+/*Modular Element*/
+.body{
+  background-color:#f2f2f2;
+}
+.width-50{
+  width:50%;
+}
+
+.float-left{
+  float:left;
+}
+
+.right{
+  text-align: right;
+}
+
+.padding-right{
+  padding-right:2%;
+}
+
+.dark{
+  background-color:black;
+  color:white;
+}
+
+.center{
+  text-align: center;
+}
+
+
+/* ------ CAROUSEL. SB ---------*/
+.carousel {
+  width: 100%;
+  margin-bottom: 5vh;
+  padding: 0;
+}
+.carousel .owl-carousel {
+  width: 100%;
+  height: auto;
+  min-height: 600px;
+}
+.carousel-image{
+  height:100%;
+  min-height: 600px;
+  width: 100vw;
+  background-size: cover;
+}
+
+.carousel-image h2{
+  font-size:72px
+  font-padding:0
+}
+
+.carousel-1{
+  background-image: url(/images/capri/capri_hotel.jpg);
+  color:white;
+}
+
+.carousel-2{
+  background-image: url(/images/bali/rice-fields.jpg);
+}
+/* ------ HOMEPAGE SECTIONS. SB ---------*/
+/* KRISTI DELETE OR UPDATE THESE COLORS THEY ARE JUST TO SHOW YOU THE SECTIONS AS A DEMO TO GET YOU STARTED. */
+.home-intro {
+  background: #f2f2f2;
+  color: white;
+}
+
+.home-destinations {
+  background: #ffffff;
+}
+
+.home-posts {
+  background: #eee;
+}
+
+/* Blog elements */
+.blog-loop a {
+  color: inherit;
+  text-decoration: none;
+  width: 100%;
+  margin: 0;
+}
+.blog-loop img,
+.post-body img {
+    margin-bottom: 2vh;
+}
+.post-body {
+  padding-right: 3%;
+}
+
+.post-meta {
+  font-size: 0.9rem;
+}
+
+.sidebar > div {
+  border: 1px solid rgb(245,245,245);
+  padding: 2rem;
+  margin: 2vh 0;
+}
+blockquote {
+  border-left: 2px solid rgb(245,245,245);
+  margin-left: 3%;
+  padding-left: 3%;
+  font-weight: 600;
+  color: rgb(90,90,95);
+}
+
+.previous, .next { /* This is to navigate to the previous and next page of pagination for blogs */
+    padding: 0 1.5em;
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+
+/*BANNERS*/
+.banner{
+  background-position: center;
+  background-size: cover;
+  min-height: 60vh;
+  width:100vw;
+}
+.empty-space{
+  height:80px;
+
+}
+
+  .travel-banner{
+    background-image:url("/images/pics_of_me/tips.pool.comp.jpg");
+  }
+  .nyc-banner{
+    background-image:url("/images/istanbul/img_0109.jpg");
+  }
+
+  .about-me-banner{
+    background-image:url("/images/pics_of_me/ricefields_cropped.jpg");
+  }
+
+
+
+/*FOOTER*/
+footer{
+  text-align: center;
+  padding-bottom:2em;
+
+}
+
+footer i{
+  font-size:3em;
+  padding:1em;
+  color:#a92E8d;
+}

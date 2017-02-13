@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<!-- THIS IS MY HOMEPAGE(instructions for Head + Header above this) -->
+
+
+
+<section class="travel-banner banner home-intro">
+  <h3 class="center">Travel Tips</h3>
+</section>
+<section class="container">
+  <h1 class="centered"> Tips & Tricks </h1>
+
+  <div class="grid blog-loop">
+    {% for post in site.categories.travel-tips %}
+      <div class="col-4_sm-12">
+          <a href="{{post.url}}">
+            <img src="{{post.image_path}}"> <!-- for consistent image sizes you will either need to crop the images beforehand or change this to divs with background images -->
+            <h3> {{post.title}} </h3>
+            <p class="post-meta">{{post.date | date_to_string }} | By {{post.author}}</p>
+            <p> {{post.excerpt | truncate:100 }} </p>
+          </a>
+        </div>
+      {% endfor %}
+  </div>
+</section>

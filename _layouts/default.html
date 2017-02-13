@@ -1,0 +1,63 @@
+<!-- This is the header for everypage -->
+<!doctype html>
+<html>
+<head>
+  <!--add google fonts  -->
+<link href="https://fonts.googleapis.com/css?family=Cabin+Condensed|Playfair+Display+SC|Sacramento" rel="stylesheet">
+
+  <!--font awesome  -->
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  <!-- gridlex -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.2.4/gridlex.min.css">
+
+  <!-- link to carousel css. SB -->
+  <link rel="stylesheet" href="/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+
+  <!-- CSS MAPS  -->
+  <link rel="stylesheet" href="/js/cssmap-continents/cssmap-continents/cssmap-continents.css">
+
+  <!-- link to css -->
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<!-- This is the HEADER -->
+<header class="grid">
+  <a class="logo" href="/">Mojito Inspired</a>
+  <nav class="col right site-navigation">
+
+  <a href="/about.html">About Me</a>
+  <a href="/destinations.html">Destinations</a>
+  <a href="/travel-tips.html">Travel Tips</a>
+  
+
+</nav>
+</header>
+
+<!-- this instructs the browser to look for content -->
+<div id="content">
+  {{content}}
+</div>
+
+
+<!-- INSTAGRAM WILL GO IN THE FOOTER -->
+<footer>
+
+  <!-- LightWidget WIDGET -->
+  <script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/474444af20885ec69314224965f94879.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
+  <!-- <div class="contact-icons"> -->
+  <a href="https://www.instagram.com/khemric/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+
+    <a href="https://www.facebook.com/kristi.hemric1"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+
+<!-- PUT EMAIL LINK HERE -->
+    <a href="EMAIL LINK"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+  <!-- </div> -->
+
+</footer>
+{% include body-scripts.html %}
+</body>
+</html>

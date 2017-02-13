@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<!-- THIS IS MY DESTINATIONS PAGE(instructions for Head + Header above this) -->
+
+<section class="travel-banner banner home-intro" style="background-image:url({{page.featured-image_path}});">
+  <h1 class="center">{{page.title}}</h1>
+  <p>{{page.description}}</p>
+</section>
+
+
+<section class="container">
+
+
+  <div class="grid blog-loop">
+    {% for post in site.categories[page.category] %}
+      <div class="col-4_sm-12">
+          <a href="{{post.url}}">
+            <img src="{{post.image_path}}"> <!-- for consistent image sizes you will either need to crop the images beforehand or change this to divs with background images -->
+            <h3> {{post.title}} </h3>
+            <p class="post-meta">{{post.date | date_to_string }} | By {{post.author}}</p>
+            <p> {{post.excerpt | truncate:100 }} </p>
+          </a>
+        </div>
+      {% endfor %}
+  </div>
+</section>
+
+<!-- This is an example of a loop that shows the 3 most recent posts in the travel category -->
