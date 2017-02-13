@@ -1,10 +1,12 @@
 ---
 layout: post
-title: test-post
-meta-description:
-meta-keywords:
+title: Monkey Forest
+meta-description: monkey
+meta-keywords: 'monkey, monkey-forest, bali, ubud'
 image_path: 'http://www.instituteofcode.com/assets/images/rice-paddy.jpg'
 categories:
-  - nyc
-author: Nick Riley
+  - asia
+author: Kristi Hemric
 ---
+
+
