@@ -68,6 +68,10 @@ h5 { font-size: 1.2rem; line-height: 1.25; }
 h6 { font-size: 1.0rem; line-height: 1.25; }
 p  { font-size: 1.1rem; line-height: 1.5;}
 
+.light{
+  color: white;
+}
+
 .about-me-homepage{
   text-align: center;
   text-decoration: none;
