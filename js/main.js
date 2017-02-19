@@ -16,4 +16,13 @@ $(document).ready(function(){
     "tapOnce": true,
   });
   // END OF THE CSSMap;
+
+
+});
+
+$( document ).ready(function() {
+   $(".burger-button").click(function(){
+     $(".burger-button").toggleClass("active");
+     $(".burger-menu").slideToggle();
+   });
 });
