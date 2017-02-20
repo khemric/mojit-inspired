@@ -216,12 +216,12 @@ nav a:hover {
 }
 
 .carousel-1{
-  background-image: url("/images/capri/capri_hotel.JPG");
+  background-image:url("/images/capri/capri_hotel.JPG");
   color:white;
 }
 
 .carousel-2{
-  background-image: url("/images/bali/rice-fields.JPG");
+  background-image:url("/images/bali/rice-fields.JPG");
 }
 /* ------ HOMEPAGE SECTIONS. SB ---------*/
 /* KRISTI DELETE OR UPDATE THESE COLORS THEY ARE JUST TO SHOW YOU THE SECTIONS AS A DEMO TO GET YOU STARTED. */
