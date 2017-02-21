@@ -211,17 +211,17 @@ nav a:hover {
 }
 
 .carousel-image h2{
-  font-size:72px
+  font-size:72px;
   font-padding:0
 }
 
   .carousel-1{
-  background-image:url("images/capri/capri_hotel.JPG");
+  background-image:url(/images/capri/capri_hotel.JPG);
   color:white;
 }
 
  .carousel-2{
-  background-image:url("images/bali/rice-fields.JPG");
+  background-image:url(/images/bali/rice-fields.JPG);
   }
 
 
