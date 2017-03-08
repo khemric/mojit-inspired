@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Very Travel Girl Valentines Day
+title: Valentines Day at Hanging Gardens Ubud
 meta-description: monkey
 meta-keywords: 'valentines day, travel girl, ubud, bali, hanging gardens,'
 image_path: /images/monkey_forest.JPG
