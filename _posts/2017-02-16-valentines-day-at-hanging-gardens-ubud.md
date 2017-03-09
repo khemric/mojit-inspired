@@ -14,6 +14,8 @@ author: Kristi Hemric
 
 This Valentines Day was different then the ones in the past. I had just spent 10 days in Canggu, on the other side of the world from my significant other, learning to code with a group of amazing people.&nbsp;
 
+![](/uploads/versions/hg_pool---x----640-419x---.jpg)
+
 The experience was challenging (to say it lightly) but also one of the most rewarding experiences. [Learn more about my experience learning to build this site here]
 
 Soo after 10 days freaking out that I was the slowest person to pick up the skill, I decided to treat myself. I booked the nicest hotel in Ubud and maybe all of Bali for one night over Valentines day.&nbsp;
