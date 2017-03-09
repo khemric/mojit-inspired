@@ -3,8 +3,10 @@ layout: post
 title: The Best of Capri
 meta-description:
 meta-keywords:
-image_path: /images/capri/la_fontalina_beach.jpg
-categories: [travel, europe]
+image_path: /images/capri/capri_hotel.jpg
+categories:
+  - travel
+  - europe
 author: Kristi Hemric
 ---
 
