@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Monkey Forest
 meta-description: monkey
 meta-keywords: 'monkey, monkey-forest, bali, ubud'
 image_path: /images/monkey_forest.JPG
@@ -10,3 +10,4 @@ author: Kristi Hemric
 ---
 
 
+Monkeys, monkeys, EVERYWHERE!
