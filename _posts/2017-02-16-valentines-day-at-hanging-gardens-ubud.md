@@ -10,7 +10,7 @@ author: Kristi Hemric
 ---
 
 
-![](/uploads/versions/hg-pool---x----640-419x---.jpg)
+&nbsp;
 
 This Valentines Day was different then the ones in the past. I had just spent 10 days in Canggu, on the other side of the world from my significant other, learning to code with a group of amazing people.&nbsp;
 
