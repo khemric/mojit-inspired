@@ -3,7 +3,7 @@ layout: post
 title: Valentines Day at Hanging Gardens Ubud
 meta-description: monkey
 meta-keywords: 'valentines day, travel girl, ubud, bali, hanging gardens,'
-image_path: /images/monkey_forest.JPG
+image_path: /images/valentines_day/hg_pool.jpg
 categories:
   - asia
 author: Kristi Hemric
