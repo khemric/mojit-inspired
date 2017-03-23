@@ -14,6 +14,4 @@ author: Kristi Hemric
 
 &nbsp;
 
-I LOVE a good straw bag. I can't stop buying them and it's a problem considering that it is currently snowing in NYC. #2 is on SALE so get it before it goes!
-
-Recently I have had an online shopping problem. I can't stop putting straw bags into my cart ;). It's kind of funny because right now I'm siting in my NYC apartment while it snows outside. I feel like another beach bag is the one thing I DON'T need. ​
+I LOVE a good straw bag. I can't stop buying them and it's a problem considering that it's currently snowing in NYC. I know it doesn't make much sense but I have found that if you want a new summer wardrobe it's best to shop during the winter months or everything you have your eye on will be sold out. So here is my round up of straw favorites! #2 is on SALE so get it before it goes! #1 Is my favorite! I bought this bag while in Bali but found the exact same bag and linked it above. #9 I use as my carry-all when traveling somewhere tropical. I wore this bag everyday while in Bali. #11 and #5 are currently in my cart. Let me know what's your fav :)&nbsp;
