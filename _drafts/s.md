@@ -10,3 +10,4 @@ author: Kristi Hemric
 ---
 
 
+Recently I have had an online shopping problem. I can't stop putting straw bags into my cart ;). It's kind of funny because right now I'm siting in my NYC apartment while it snows outside. I feel like another beach bag is the one thing I DON'T need. ​
